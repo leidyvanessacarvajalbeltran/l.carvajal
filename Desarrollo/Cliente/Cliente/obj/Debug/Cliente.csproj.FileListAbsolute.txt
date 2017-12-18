@@ -1,0 +1,13 @@
+E:\Realidad Aumentada\Cliente\Cliente\bin\Cliente.dll.config
+E:\Realidad Aumentada\Cliente\Cliente\bin\Cliente.dll
+E:\Realidad Aumentada\Cliente\Cliente\bin\Cliente.pdb
+E:\Realidad Aumentada\Cliente\Cliente\bin\ClosedXML.dll
+E:\Realidad Aumentada\Cliente\Cliente\bin\Ext.Net.dll
+E:\Realidad Aumentada\Cliente\Cliente\bin\Ext.Net.Utilities.dll
+E:\Realidad Aumentada\Cliente\Cliente\bin\itextsharp.dll
+E:\Realidad Aumentada\Cliente\Cliente\bin\Newtonsoft.Json.dll
+E:\Realidad Aumentada\Cliente\Cliente\bin\Transformer.NET.dll
+E:\Realidad Aumentada\Cliente\Cliente\bin\Ext.Net.xml
+E:\Realidad Aumentada\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+E:\Realidad Aumentada\Cliente\Cliente\obj\Debug\Cliente.dll
+E:\Realidad Aumentada\Cliente\Cliente\obj\Debug\Cliente.pdb
